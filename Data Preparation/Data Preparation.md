@@ -39,8 +39,4 @@ I decided to look at the data for these big tech companies and their subsidiarie
   - Microsoft Corporation
   - LinkedIn Corporation
 
-Here's the data in a Microsoft Excel sheet. I put each company on its own sheet:
-
-![Excel sheet](https://1.bp.blogspot.com/-Ry13-fn0yWg/X_y70Qow9CI/AAAAAAAAGxs/sWUbUWeqoCgOC6KFUflqlDVj1fVva2yLQCNcBGAsYHQ/s16000/Excel.png)
-
-After gathering the data, I combined the different companies into a single sheet. Only Facebook, Amazon, Apple, Netflix, and Google remained in the EMPLOYER column, all other subsidiaries were renamed to their respective companies. The final excel sheet contained around 101,000 rows.
+I put the data into Microsoft Excel, with each company on its own sheet. After gathering the data, I combined the different companies into a single sheet. Only Facebook, Amazon, Apple, Netflix, and Google remained in the EMPLOYER column, all other subsidiaries were renamed to their respective companies. The final excel sheet contained around 101,000 rows.
