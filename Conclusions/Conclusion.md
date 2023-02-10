@@ -1,1 +1,0 @@
-For compensation in FAANG, Netflix is king. Netflix pays the maximum mean base salary for nearly every job category when compared to other companies in big tech. Overall, California, and New York seem to have the highest mean base salaries. Job titles that contain the word "Product" have a higher mean base salary than software, data, supply chain, and operations program roles.  
