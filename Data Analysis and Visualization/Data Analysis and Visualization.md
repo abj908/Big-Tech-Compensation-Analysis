@@ -4,7 +4,7 @@ Additionally, the Analysis of Means Methods shows that mean base salaries for Ap
 
 I also created an interactive visual in Tableau that shows the relationship between average base salary, employer, and the number of visas submitted. Unsurprisingly, the average base salary increase with time for all employers. The number of visas submitted is less consistent but seems to show a positive trend as well.  
 
-[Employer Salary vs Time by Employer Visual](https://public.tableau.com/profile/albert.b.joseph#!/vizhome/EmployerSalaryvsTimebyEmployer/EmployerSalaryvsTimebyEmployer){:target="_blank"}
+[Employer Salary vs Time by Employer Visual](https://public.tableau.com/profile/albert.b.joseph#!/vizhome/EmployerSalaryvsTimebyEmployer/EmployerSalaryvsTimebyEmployer)
 
 Next, I wanted to see the impact of location on base salary. To do this, I created a separate column for City and State in my excel file and only analyzed states with at least 30 Visas submitted. 
 
