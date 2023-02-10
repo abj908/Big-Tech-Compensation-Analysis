@@ -2,4 +2,4 @@ Almost every engineering student wants to work at Facebook, Amazon, Apple, Netfl
 
 ## Completion Date
 
-This project was completed on 01/31/2021.
+This project was completed on 01/2021.
